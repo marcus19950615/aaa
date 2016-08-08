@@ -17,16 +17,16 @@
     "commander": "2.7.1"
   },
   "bin": {
-    "pushserver": "./bin/pushserver.js"
+    "pushserver": "pushserver.js"
   },
-  "main": "./lib/PushController.js",
+  "main": "PushController.js",
   "scripts": {
-"start": "node ./bin/pushserver.js",
+"start": "node-pushserver.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Smile-SA/node-pushserver.git"
+    "url": "git//github.com/marcus19950615/aaa.git"
   },
-  "bugs": "https://github.com/Smile-SA/node-pushserver/issues"
+  "bugs": "https://github.com/marcus19950615/aaa"
 }

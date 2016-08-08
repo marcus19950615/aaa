@@ -1,8 +1,8 @@
 {
-    "mongodbUrl": "mongodb://username:password@localhost/database",
+    "mongodbUrl": "mongodb://cookie123:asd757959@ds145385.mlab.com:45385/comcom",
 
     "gcm": {
-        "apiKey": "YOUR_API_KEY_HERE"
+        "apiKey": "AIzaSyBj1RKaxI8rXCIzAeaZJuF9lQtsGaIEZOU"
     },
 
     "apn": {
